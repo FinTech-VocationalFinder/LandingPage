@@ -1,3 +1,3 @@
 # LandingPage
-##Preview
+## Preview
 Link: https://fintech-vocationalfinder.github.io/LandingPage/
