@@ -1,3 +1,3 @@
 # LandingPage
 ## Preview
-Link: [Vocational Finter](https://fintech-vocationalfinter.github.io/VocationalFinter/)
+Link: [Vocational Finter](https://fintechorg.github.io/LandingPage/)
